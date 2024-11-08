@@ -9,6 +9,7 @@ A Physics-Informed Neural Network is a neural network that integrates physical l
 # 🌀 Why Do We Need PINNs?
 In traditional approaches to solving physical problems, researchers typically rely on numerical methods to solve differential equations. However, these methods can be computationally expensive and time-consuming. PINNs offer a more efficient alternative by leveraging the power of neural networks to learn solutions that adhere to the underlying physics.
 **Advantages of PINNs**
+
 • **Reduced Computational Cost:** By using PINNs, we can solve PDEs without heavy computational infrastructure.
 
 • **Better Generalization:** PINNs generalize well to different initial conditions and parameters.
