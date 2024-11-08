@@ -1,4 +1,4 @@
-#🚀 Physics Informed Neural Networks PINNs
+🚀# Physics Informed Neural Networks PINNs
 ![DALL·E 2024-11-08 19 04 10 - A visually detailed landscape illustration of a Physics-Informed Neural Network (PINN) concept  The image shows a neural network with multiple interco](https://github.com/user-attachments/assets/dfeff51e-bfb1-4aa0-b27d-8ca607b12526)
 # What Are Physics-Informed Neural Networks?
 A Physics-Informed Neural Network is a neural network that integrates physical laws (in the form of differential equations) into the loss function to guide learning. Unlike traditional neural networks, which focus purely on fitting data, PINNs use physical laws as a “guiding force,” ensuring that the predictions remain consistent with fundamental physics.
