@@ -2,7 +2,9 @@
 Physics-Informed Neural Networks (PINNs) represent a fascinating intersection of machine learning and physics. These networks have gained significant attention for their unique ability to solve complex physical problems by incorporating the principles of physics directly into the learning process. This article will take you through the basics to the advanced aspects of PINNs, examining why they’re needed, how they differ from standard neural networks, and where they’re used.
 
 ![DALL·E 2024-11-08 19 04 10 - A visually detailed landscape illustration of a Physics-Informed Neural Network (PINN) concept  The image shows a neural network with multiple interco](https://github.com/user-attachments/assets/dfeff51e-bfb1-4aa0-b27d-8ca607b12526)
+
 <p style="text-align: center;">"Image created by the author using a generative AI tool"</p>
+
 <center>"Image created by the author using a generative AI tool"</center>
 
 # 📌 What Are Physics-Informed Neural Networks?
