@@ -24,5 +24,5 @@ In traditional approaches to solving physical problems, researchers typically re
 Traditional neural networks are data-driven, learning patterns from labeled data to make predictions. PINNs, however, are physics-driven, integrating known physical equations into the training process.
 ![image](https://github.com/user-attachments/assets/2698f88c-a439-4ee2-a92d-2bb62eff2378)
 
-# 📚 Read More About Seaborn at: 
-🌐 [https://medium.com/tech-spectrum/physics-informed-neural-networks-pinns-2357aeec4fbc](https://medium.com/@aarafat27/aesthetic-data-visualization-with-seaborn-020643675ad8)
+# 📚 Read More About PINNs at: 
+🌐 https://medium.com/tech-spectrum/physics-informed-neural-networks-pinns-2357aeec4fbc
